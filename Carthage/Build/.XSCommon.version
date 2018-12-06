@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.0.3",
+  "iOS" : [
+    {
+      "name" : "XSCommon",
+      "hash" : "6f1ef61727e41337885b326781b000e7ce17d22995e4cf89257a8810ce0374fc"
+    }
+  ]
+}

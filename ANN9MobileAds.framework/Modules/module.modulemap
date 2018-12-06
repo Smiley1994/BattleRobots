@@ -1,0 +1,6 @@
+framework module ANN9MobileAds {
+  umbrella header "ANN9MobileAds.h"
+
+  export *
+  module * { export * }
+}

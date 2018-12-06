@@ -1,0 +1,11 @@
+framework module XSCommon {
+  umbrella header "XSCommon.h"
+
+  export *
+  module * { export * }
+}
+
+module XSCommon.Swift {
+    header "XSCommon-Swift.h"
+    requires objc
+}

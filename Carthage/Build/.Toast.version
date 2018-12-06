@@ -1,0 +1,9 @@
+{
+  "commitish" : "4.0.0",
+  "iOS" : [
+    {
+      "name" : "Toast",
+      "hash" : "fd6ebebceaa3ecc479c43ffe1e933a6eca62124d63b8140dacc6925fc89cfc7f"
+    }
+  ]
+}

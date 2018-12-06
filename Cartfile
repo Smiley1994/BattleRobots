@@ -1,0 +1,7 @@
+github "Alamofire/Alamofire" ~> 4.7
+github "SnapKit/SnapKit" ~> 4.0.0
+github "SwiftyJSON/SwiftyJSON"
+github "ibireme/YYWebImage"
+github "Smiley1994/XSCommon"
+github "scalessec/Toast" ~> 4.0.0
+github "rs/SDWebImage"
